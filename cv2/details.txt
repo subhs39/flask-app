@@ -1,0 +1,49 @@
+11602468
+Nihal Kumar
+nihalkumar28101997@gmail.com
+subhamsaketnihalsachin39@69
+
+
+Wearable Surveillance Plus Watch
+
+Parents can take care of their wards at home, but what happens when their children leave the home for school or tuitions or any friend's house.
+Chances are they can indulge into wrong activities like smoking cigarettes, learning offensive words.
+The watch can reduce the stress of working-parents by sending them the most used keywords used by their child during the day.
+like if the child speaks cigarettes or some offensive words quite a lot then it will be sent to the cloud and at the end of the day the parents can analyze or ask for an explanation.
+The watch would be a surveillance gadget under the hood, i.e it would look like a normal good looking watch but will continuously feed the spoken words to the cloud, and the rest process of filtering and all would be done at the cloud level.
+These small things can stop the children from involving into harmful activities and can lead to a better society and a better tomorrow.
+
+The parents can either see the list of words used until that period of the day.
+or 
+at the end of the day, the list is automatically sent to them via email,SMS, or even a dedicated app for it.
+
+
+The plus in the watch indicates for other purposes like 
+	one can use it to learn new words
+	like it is said to improve your vocabulary you should learn a new word daily use it in your sentences throughout the day.
+	
+	and like said it would display the time as usual. Hiding the internal mechanism to the children.
+
+The watch would always be connected to the internet and thus it can be controlled through a web page or app or functions of the watch can even be triggered through an SMS.
+
+
+
+
+
+The Solution Involves building a small wearable watch that is connected to the internet.
+we would probably use NodeMCU (a small development board like Arduino coupled with wifi (esp8266 12e) for interacting with a microphone module and sending it the internet via wifi )
+we would use python3 and its NLTK (natural language toolkit) Library and also the Google's SpeechRecognition API in python3.
+we would use PHP and CSS framework Pure (yahoo) to make webpage and IFTTT applets to trigger it with various mechanisms like URL or SMS, etc.
+we can make an android app with Android Studio dedicated for that watch which has a simple and easy to learn GUI to see the log of the words with their no of occurrences.
+
+
+
+It can Impact the child's future by keeping him away from wrong indulgements throughout the day.
+It can impact the extensive process of having surveillance on the children as you cannot afford to be with him/her everywhere.
+it reduces the stress from the parents so they can work peacefully and be more productive in their own personal life.
+overall this product focuses on building a better tomorrow full of productive individuals.
+it can find the roots of various problems faced by a child in his daily life that they feel ashamed of sharing with their parents. with its use the parently can directly Figure out whats going on with thier wards through the course of the day.
+
+
+    
+    
