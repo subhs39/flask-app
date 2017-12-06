@@ -5,3 +5,4 @@ git push
 git pull
 git rm -r --cached venv  
 heroku git:remote -a app_name
+adding variables to heroku "heroku config: set VARIABLE_NAME=Value"
