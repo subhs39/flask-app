@@ -4,3 +4,4 @@ git commit -m "message"
 git push
 git pull
 git rm -r --cached venv  
+heroku git:remote -a app_name
